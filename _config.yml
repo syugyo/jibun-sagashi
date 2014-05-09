@@ -3,8 +3,8 @@ name: jibun sagashi
 title: 自分探し
 # email: your-email@domain.com
 description: "OSSで社会貢献"
-baseurl: "/jibun-sagashi/"
-url: "https://syugyo.github.io"
+baseurl: "/jibun-sagashi"
+url: "http://syugyo.github.io"
 
 # Build settings
 markdown: kramdown
