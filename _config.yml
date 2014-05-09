@@ -1,12 +1,16 @@
 # Site settings
 name: jibun sagashi
-title: 自分探し
+# title: 自分探し
 # email: your-email@domain.com
 description: "旅に出ます"
 baseurl: "/jibun-sagashi"
 url: "http://syugyo.github.io"
 
+timezone: "Asia/Tokyo"
+
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables"]
 permalink: /articles/:year/:month/:day/:title
 
