@@ -8,5 +8,5 @@ url: "http://syugyo.github.io"
 
 # Build settings
 markdown: kramdown
-permalinks: pretty
+permalink: /articles/:year/:month/:day/:title
 
