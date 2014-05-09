@@ -403,3 +403,13 @@ a:visited { color: #205caa; }
     margin: 0 0 15px; }
 
 }
+
+table {
+  border-collapse: collapse;
+}
+
+td, th {
+  border: 1px solid rgba(204, 204, 204, 1);
+  padding: 6px 12px;
+}
+
