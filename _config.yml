@@ -11,6 +11,6 @@ timezone: "Asia/Tokyo"
 # Build settings
 markdown: redcarpet
 redcarpet:
-  extensions: ["tables"]
+  extensions: ["tables", "autolink"]
 permalink: /articles/:year/:month/:day/:title
 
